@@ -15,9 +15,9 @@
 ### 🎓 About Me
 
 - 💼 Junior Data Analyst with **1 year of real-world project experience**, empowering smart decision‑making :contentReference[oaicite:3]{index=3}
-- 🎓 Education: Faculty of Computer and Data Science, Alexandria University (assumed—please adjust if different)
+- 🎓 Education: Faculty of Computer and Data Science, Alexandria University 
 - 📫 Contact: **[ahmedfayezd62@gmail.com]**
-- 📄 [View My Resume](#) *(add your actual resume link here)*
+- 📄 [View My Resume](#) *(link)*
 
 ---
 
